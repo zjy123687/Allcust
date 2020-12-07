@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/src_gen" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.ptc.windchill:codebase:11.0.30-cps02" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.ptc.windchill:Annotations:11.0.30" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.ptc.windchill:AnnotationProcessing:11.0.30" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.ptc.windchill:ieWeb:11.0.30" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.ptc.windchill:jmxcoreWeb:11.0.30" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.ptc.windchill:mpmlWeb:11.0.30" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.ptc.windchill:ncWeb:11.0.30" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.ptc.windchill:pdmlWeb:11.0.30" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.ptc.windchill:pjlWeb:11.0.30" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.ptc.windchill:prowtWeb:11.0.30" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.ptc.windchill:ptlcWeb:11.0.30" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.ptc.windchill:qmsWeb:11.0.30" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.ptc.windchill:reqlWeb:11.0.30" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.ptc.windchill:restWeb:11.0.30" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.ptc.windchill:rialtoWeb:11.0.30" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.ptc.windchill:sisaadWeb:11.0.30" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.ptc.windchill:sisipcWeb:11.0.30" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.ptc.windchill:sisWeb:11.0.30" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.ptc.windchill:sumaWeb:11.0.30" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.ptc.windchill:wncWeb:11.0.30" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.ptc.windchill:wpsWeb:11.0.30" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.ptc.windchill:ie3rdpartylibs:11.0.30" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.ptc.windchill:wc3rdpartylibs:11.0.30" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: Windchill:install:11.0.20" level="project" />
+  </component>
+</module>

@@ -1,0 +1,379 @@
+﻿ResourceInfo.class=wt.tools.resource.EnumResourceInfo
+ResourceInfo.customizable=true
+ResourceInfo.deprecated=false
+
+# Entry Format (values equal to default value are not included)
+# <key>.value=
+# <key>.category=
+# <key>.comment=
+# <key>.argComment<n>=
+# <key>.constant=
+# <key>.customizable=
+# <key>.deprecated=
+# <key>.abbreviatedDisplay=
+# <key>.fullDisplay=
+# <key>.shortDescription=
+# <key>.longDescription=
+# <key>.order=
+# <key>.defaultValue=
+# <key>.selectable=
+
+# Entry Contents
+
+ACCEPTED.value=已接受
+ACCEPTED.shortDescription=已接受状态
+
+APPROVED.value=已批准
+APPROVED.shortDescription=已批准状态
+
+ASSEMBLY.value=装配
+ASSEMBLY.shortDescription=装配状态
+
+ASSIGNED.value=已分配
+ASSIGNED.shortDescription=已分配状态
+
+CLOSED.value=已关闭
+CLOSED.shortDescription=已关闭状态
+
+CLOSURE.value=关闭
+CLOSURE.shortDescription=关闭状态
+
+COMPLETED.value=已完成
+COMPLETED.shortDescription=已完成状态
+
+DEFERRED.value=已延期
+DEFERRED.shortDescription=已延期状态
+
+DESIGN.value=设计
+DESIGN.shortDescription=设计状态
+
+DEVELOPMENT.value=开发
+DEVELOPMENT.shortDescription=开发状态
+
+DROPPED.value=已永久删除
+DROPPED.shortDescription=已永久删除状态
+DROPPED.selectable=false
+
+IMPLEMENTATION.value=实施
+IMPLEMENTATION.shortDescription=实施状态
+
+IN ANALYSIS.value=正在分析
+IN ANALYSIS.shortDescription=正在分析状态
+
+INVESTIGATION.value=调查
+INVESTIGATION.shortDescription=调查状态
+
+INWORK.value=正在工作
+INWORK.shortDescription=正在工作状态
+
+MANUFACTURING.value=制造
+MANUFACTURING.shortDescription=制造状态
+
+ON HOLD.value=暂停
+ON HOLD.shortDescription=暂停状态
+
+OBSOLETE.value=已过时
+OBSOLETE.shortDescription=已过时状态
+
+OPEN.value=开启
+OPEN.shortDescription=开启状态
+
+PACKAGING.value=封装
+PACKAGING.shortDescription=封装状态
+
+PENDING APPROVAL.value=待批准
+PENDING APPROVAL.shortDescription=待批准状态
+
+PLANNING.value=正在计划
+PLANNING.shortDescription=正在计划状态
+
+PREVIEW.value=预览
+PREVIEW.shortDescription=预览状态
+
+PREPRODUCTION.value=生产前
+PREPRODUCTION.shortDescription=生产前状态
+
+PRICING.value=计价
+PRICING.shortDescription=计价状态
+
+PROCUREMENT.value=采购
+PROCUREMENT.shortDescription=获得状态
+
+PROPOSAL.value=提议
+PROPOSAL.shortDescription=提议状态
+
+PUBLISHED.value=已出版
+PUBLISHED.shortDescription=已出版状态
+
+REJECTED.value=已否决
+REJECTED.shortDescription=已否决状态
+
+RELEASED.value=已发布
+RELEASED.shortDescription=已发布状态
+
+RESEARCH.value=研究
+RESEARCH.shortDescription=研究状态
+
+RESOLVED.value=已解决
+RESOLVED.shortDescription=已解决状态
+
+REVIEWED.value=已审阅
+REVIEWED.shortDescription=已审阅状态
+
+REWORK.value=返工
+REWORK.shortDescription=返工状态
+
+SHIPPED.value=已发运
+SHIPPED.shortDescription=已发运状态
+
+SHIPPING.value=正在发运
+SHIPPING.shortDescription=正在发运状态
+
+SOLUTION.value=解决方案
+SOLUTION.shortDescription=解决状态
+
+TESTING.value=正在测试
+TESTING.shortDescription=正在测试状态
+
+UNDERREVIEW.value=正在审阅
+UNDERREVIEW.shortDescription=正在审阅状态
+
+EXPORTING.value=正在导出
+EXPORTING.shortDescription=正在导出状态
+
+IMPORTING.value=正在导入
+IMPORTING.shortDescription=正在导入状态
+
+POPULATED.value=填充
+POPULATED.shortDescription=填充状态
+
+PURGING.value=清除
+PURGING.shortDescription=清除状态
+
+RECEIVING.value=正在接收
+RECEIVING.shortDescription=正在接收状态
+
+SENDING.value=正在发送
+SENDING.shortDescription=正在发送状态
+
+SENT.value=已发送
+SENT.shortDescription=已发送状态
+
+DEFINING REQUIREMENTS.value=正在定义需求
+DEFINING REQUIREMENTS.shortDescription=正在定义需求状态
+
+OPEN FOR RESPONSES.value=等待响应
+OPEN FOR RESPONSES.shortDescription=等待响应状态
+
+EVALUATING RESPONSES.value=评估响应
+EVALUATING RESPONSES.shortDescription=评估响应状态
+
+CONTRACTING.value=签约
+CONTRACTING.shortDescription=签约状态
+
+PROTOTYPE.value=原型
+PROTOTYPE.shortDescription=原型
+
+PRODUCTION.value=生产
+PRODUCTION.shortDescription=生产
+
+OBSOLESCENCE.value=废弃
+OBSOLESCENCE.shortDescription=废弃
+
+CONCEPT.value=概念
+CONCEPT.shortDescription=概念
+
+WITHDRAWN.value=已撤回
+WITHDRAWN.shortDescription=已撤回
+
+PROTOTYPEINWORK.value=原型在使用中
+PROTOTYPEINWORK.shortDescription=原型在使用中
+
+PROTOTYPERELEASED.value=原型已发布
+PROTOTYPERELEASED.shortDescription=原型已发布
+
+PRODUCTIONCHANGE.value=生产更改
+PRODUCTIONCHANGE.shortDescription=生产更改
+
+PRODUCTIONRELEASED.value=生产已发布
+PRODUCTIONRELEASED.shortDescription=生产已发布
+
+CANCELLED.value=已取消
+CANCELLED.shortDescription=已取消状态
+
+DISREGARD.value=忽略
+DISREGARD.shortDescription=忽略
+
+INTAKE.value=接入
+INTAKE.shortDescription=接入状态
+
+EVALUATION.value=评估
+EVALUATION.shortDescription=估计状态
+
+INVESTIGATIONAPPROVAL.value=调查批准
+INVESTIGATIONAPPROVAL.shortDescription=调查批准状态
+
+IN PROGRESS.value=进行中
+IN PROGRESS.shortDescription=进行中状态
+
+PLAN.value=计划
+PLAN.shortDescription=计划状态
+
+PLAN APPROVAL.value=计划批准
+PLAN APPROVAL.shortDescription=计划批准状态
+
+UNDERAPPROVAL.value=正在批准
+UNDERAPPROVAL.shortDescription=正在批准状态
+
+CONFIRMATION.value=确认
+CONFIRMATION.shortDescription=确认状态
+
+EFFECTIVENESS.value=有效性
+EFFECTIVENESS.shortDescription=有效性状态
+
+EFFECTIVENESS APPROVAL.value=有效性批准
+EFFECTIVENESS APPROVAL.shortDescription=有效性批准状态
+
+REOPENED.value=重新打开
+REOPENED.shortDescription=重新打开
+
+DISPOSITION.value=处置
+DISPOSITION.shortDescription=处置状态
+
+CLOSUREREVIEW.value=关闭审阅
+CLOSUREREVIEW.shortDescription=关闭审阅状态
+
+DISPOSITIONPLAN.value=处置计划
+DISPOSITIONPLAN.shortDescription=处置计划状态
+
+MRB.value=材料审阅委员会
+MRB.shortDescription=材料审阅委员会状态
+
+REDISPOSITION.value=重新处置
+REDISPOSITION.shortDescription=重新处置状态
+
+SUMMARY AND REVIEW.value=汇总和审阅
+SUMMARY AND REVIEW.shortDescription=汇总和审阅状态
+
+DECONTAMINATION.value=退货处理
+DECONTAMINATION.shortDescription=退货处理状态
+
+PRODUCT EVALUATION.value=产品评估
+PRODUCT EVALUATION.shortDescription=产品评估状态
+
+REQUEST.value=请求
+REQUEST.shortDescription=请求状态
+
+RESPONSE.value=响应
+RESPONSE.shortDescription=响应状态
+
+REVIEW.value=审阅
+REVIEW.shortDescription=审阅状态
+
+PRODUCT INVESTIGATION.value=产品调查
+PRODUCT INVESTIGATION.shortDescription=产品调查状态
+
+DECISION.value=决策
+DECISION.shortDescription=决策状态
+
+CREATION.value=创建
+CREATION.shortDescription=创建状态
+
+APPROVAL.value=批准
+APPROVAL.shortDescription=批准状态
+
+SUBMISSION.value=提交
+SUBMISSION.shortDescription=提交状态
+
+SUBMITTING.value=正在提交
+SUBMITTING.shortDescription=正在提交状态
+
+DELAYED.value=延迟
+DELAYED.shortDescription=延迟状态
+
+FAILED.value=失败
+FAILED.shortDescription=失败状态
+
+PENDING.value=待处理
+PENDING.shortDescription=待处理状态
+
+WIP.value=工作进行中
+WIP.shortDescription=工作进行中
+
+VERIFICATION REQUIRED.value=需要验证
+VERIFICATION REQUIRED.shortDescription=需要验证状态
+
+REWORKREQUIRED.value=需要返工
+REWORKREQUIRED.shortDescription=需要返工状态
+
+ISSUEREQUIRED.value=需要发行
+ISSUEREQUIRED.shortDescription=需要发行状态
+
+ISSUED.value=已发行
+ISSUED.shortDescription=已发行状态
+
+IMPORTED.value=已导入
+IMPORTED.shortDescription=已导入状态
+
+DRAFTDELIVERED.value=草稿已交付
+DRAFTDELIVERED.shortDescription=草稿已交付状态
+
+DELIVERED.value=已交付
+DELIVERED.shortDescription=已交付状态
+
+LOCKED.value=已锁定
+LOCKED.shortDescription=已锁定状态
+
+UNLOCKED.value=已解锁
+UNLOCKED.shortDescription=已解锁状态
+
+DRAFT.value=草稿
+DRAFT.shortDescription=草稿状态
+
+FINAL.value=最终
+FINAL.shortDescription=最终状态
+
+INPLANNING.value=计划中
+INPLANNING.shortDescription=计划中状态
+
+RELEASEDFORPRODUCTION.value=发布进行生产
+RELEASEDFORPRODUCTION.shortDescription=发布进行生产状态
+
+POTENTIAL.value=潜在的
+POTENTIAL.shortDescription=潜在状态
+
+READY FOR PACKAGING.value=封装就绪
+READY FOR PACKAGING.shortDescription=封装就绪状态
+
+RECEIVED.value=已接收
+RECEIVED.shortDescription=已接收状态
+
+REQUIRED.value=必需
+REQUIRED.shortDescription=必需状态
+
+EXPIRED.value=已过期
+EXPIRED.shortDescription=已过期状态
+
+ARCHIVED.value=已存档
+ARCHIVED.shortDescription=已存档状态
+
+EFFECTIVE.value=有效
+EFFECTIVE.shortDescription=有效状态
+
+LEGAL HOLD.value=依法保留
+LEGAL HOLD.shortDescription=依法保留状态
+
+IN TRAINING.value=正在培训
+IN TRAINING.shortDescription=正在培训状态
+
+IN REVIEW.value=正在审阅
+IN REVIEW.shortDescription=正在审阅状态
+
+RECORD.value=记录
+RECORD.shortDescription=记录状态
+
+SUBMITTED.value=已提交
+SUBMITTED.shortDescription=已提交状态
+
+COMPILE.value=编写
+COMPILE.shortDescription=编写状态

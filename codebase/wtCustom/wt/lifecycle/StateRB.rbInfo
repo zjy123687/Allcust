@@ -1,0 +1,382 @@
+ResourceInfo.class=wt.tools.resource.EnumResourceInfo
+ResourceInfo.customizable=true
+ResourceInfo.deprecated=false
+ResourceInfo.UUID=48de8535-78c4-4872-bb60-fa3b4042c6ec
+
+# Entry Format (values equal to default value are not included)
+# <key>.value=
+# <key>.category=
+# <key>.comment=
+# <key>.argComment<n>=
+# <key>.constant=
+# <key>.customizable=
+# <key>.deprecated=
+# <key>.abbreviatedDisplay=
+# <key>.fullDisplay=
+# <key>.shortDescription=
+# <key>.longDescription=
+# <key>.order=
+# <key>.defaultValue=
+# <key>.selectable=
+
+# Entry Contents
+
+ACCEPTED.value=Accepted
+ACCEPTED.shortDescription=Accepted state
+
+APPROVED.value=Approved
+APPROVED.shortDescription=Approved state
+
+ASSEMBLY.value=Assembly
+ASSEMBLY.shortDescription=Assembly state
+
+ASSIGNED.value=Assigned
+ASSIGNED.shortDescription=Assigned state
+
+CLOSED.value=Closed
+CLOSED.shortDescription=Closed state
+
+CLOSURE.value=Closure
+CLOSURE.shortDescription=Closure state
+
+COMPLETED.value=Completed
+COMPLETED.shortDescription=Completed state
+
+DEFERRED.value=Deferred
+DEFERRED.shortDescription=Deferred state
+
+DESIGN.value=Design
+DESIGN.shortDescription=Design state
+
+DEVELOPMENT.value=Development
+DEVELOPMENT.shortDescription=Development state
+
+DROPPED.value=Dropped
+DROPPED.shortDescription=Dropped state
+DROPPED.selectable=false
+
+IMPLEMENTATION.value=Implementation
+IMPLEMENTATION.shortDescription=Implementation state
+
+IN ANALYSIS.value=In Analysis
+IN ANALYSIS.shortDescription=In Analysis state
+
+INVESTIGATION.value=Investigation
+INVESTIGATION.shortDescription=Investigation state
+
+INWORK.value=In Work
+INWORK.shortDescription=In Work state
+
+MANUFACTURING.value=Manufacturing
+MANUFACTURING.shortDescription=Manufacturing state
+
+ON HOLD.value=On Hold
+ON HOLD.shortDescription=On Hold state
+
+OBSOLETE.value=Obsolete
+OBSOLETE.shortDescription=Obsolete state
+
+OPEN.value=Open
+OPEN.shortDescription=Open state
+
+PACKAGING.value=Packaging
+PACKAGING.shortDescription=Packaging state
+
+PENDING APPROVAL.value=Pending Approval
+PENDING APPROVAL.shortDescription=Pending Approval state
+
+PLANNING.value=Planning
+PLANNING.shortDescription=Planning state
+
+PREVIEW.value=Preview
+PREVIEW.shortDescription=Preview state
+
+PREPRODUCTION.value=Preproduction
+PREPRODUCTION.shortDescription=Preproduction state
+
+PRICING.value=Pricing
+PRICING.shortDescription=Pricing state
+
+PROCUREMENT.value=Procurement
+PROCUREMENT.shortDescription=Procurement state
+
+PROPOSAL.value=Proposal
+PROPOSAL.shortDescription=Proposal state
+
+PUBLISHED.value=Published
+PUBLISHED.shortDescription=Published state
+
+REJECTED.value=Rejected
+REJECTED.shortDescription=Rejected state
+
+RELEASED.value=Released
+RELEASED.shortDescription=Released state
+
+RESEARCH.value=Research
+RESEARCH.shortDescription=Research state
+
+RESOLVED.value=Resolved
+RESOLVED.shortDescription=Resolved state
+
+REVIEWED.value=Reviewed
+REVIEWED.shortDescription=Reviewed state
+
+REWORK.value=Rework
+REWORK.shortDescription=Rework state
+
+SHIPPED.value=Shipped
+SHIPPED.shortDescription=Shipped state
+
+SHIPPING.value=Shipping
+SHIPPING.shortDescription=Shipping state
+
+SOLUTION.value=Solution
+SOLUTION.shortDescription=Solution state
+
+TESTING.value=Testing
+TESTING.shortDescription=Testing state
+
+UNDERREVIEW.value=Under Review
+UNDERREVIEW.shortDescription=Under review state
+
+EXPORTING.value=Exporting
+EXPORTING.shortDescription=Exporting state
+
+IMPORTING.value=Importing
+IMPORTING.shortDescription=Importing state
+
+POPULATED.value=Populated
+POPULATED.shortDescription=Populated state
+
+PURGING.value=Purging
+PURGING.shortDescription=Purging state
+
+RECEIVING.value=Receiving
+RECEIVING.shortDescription=Receiving state
+
+SENDING.value=Sending
+SENDING.shortDescription=Sending state
+
+SENT.value=Sent
+SENT.shortDescription=Sent state
+
+DEFINING REQUIREMENTS.value=Defining Requirements
+DEFINING REQUIREMENTS.shortDescription=Defining Requirements state
+
+OPEN FOR RESPONSES.value=Open For Responses
+OPEN FOR RESPONSES.shortDescription=Open For Responses state
+
+EVALUATING RESPONSES.value=Evaluating Responses
+EVALUATING RESPONSES.shortDescription=Evaluating Responses state
+
+CONTRACTING.value=Contracting
+CONTRACTING.shortDescription=Contracting state
+
+PROTOTYPE.value=Prototype
+PROTOTYPE.shortDescription=Prototype
+
+PRODUCTION.value=Production
+PRODUCTION.shortDescription=Production
+
+OBSOLESCENCE.value=Obsolescence
+OBSOLESCENCE.shortDescription=Obsolescence
+
+CONCEPT.value=Concept
+CONCEPT.shortDescription=Concept
+
+WITHDRAWN.value=Withdrawn
+WITHDRAWN.shortDescription=Withdrawn
+
+PROTOTYPEINWORK.value=Prototype In Work
+PROTOTYPEINWORK.shortDescription=Prototype In Work
+
+PROTOTYPERELEASED.value=Prototype Released
+PROTOTYPERELEASED.shortDescription=Prototype Released
+
+PRODUCTIONCHANGE.value=Production Change
+PRODUCTIONCHANGE.shortDescription=Production Change
+
+PRODUCTIONRELEASED.value=Production Released
+PRODUCTIONRELEASED.shortDescription=Production Released
+
+CANCELLED.value=Canceled
+CANCELLED.shortDescription=Canceled state
+
+DISREGARD.value=Disregard
+DISREGARD.shortDescription=Disregard
+
+INTAKE.value=Intake
+INTAKE.shortDescription=Intake state
+
+EVALUATION.value=Evaluation
+EVALUATION.shortDescription=Evaluation state
+
+INVESTIGATIONAPPROVAL.value=Investigation Approval
+INVESTIGATIONAPPROVAL.shortDescription=Investigation Approval state
+
+IN PROGRESS.value=In Progress
+IN PROGRESS.shortDescription=In Progress state
+
+PLAN.value=Plan
+PLAN.shortDescription=Plan state
+
+PLAN APPROVAL.value=Plan Approval
+PLAN APPROVAL.shortDescription=Plan Approval state
+
+UNDERAPPROVAL.value=Under Approval
+UNDERAPPROVAL.shortDescription=Under Approval state
+
+CONFIRMATION.value=Confirmation
+CONFIRMATION.shortDescription=Confirmation state
+
+EFFECTIVENESS.value=Effectiveness
+EFFECTIVENESS.shortDescription=Effectiveness state
+
+EFFECTIVENESS APPROVAL.value=Effectiveness Approval
+EFFECTIVENESS APPROVAL.shortDescription=Effectiveness Approval state
+
+REOPENED.value=Reopened
+REOPENED.shortDescription=Reopened
+
+DISPOSITION.value=Disposition
+DISPOSITION.shortDescription=Disposition state
+
+CLOSUREREVIEW.value=Closure Review
+CLOSUREREVIEW.shortDescription=Closure Review state
+
+DISPOSITIONPLAN.value=Disposition Plan
+DISPOSITIONPLAN.shortDescription=Disposition Plan state
+
+MRB.value=Material Review Board
+MRB.shortDescription=Material Review Board state
+
+REDISPOSITION.value=Redisposition
+REDISPOSITION.shortDescription=Redisposition state
+
+SUMMARY AND REVIEW.value=Summary and Review
+SUMMARY AND REVIEW.shortDescription=Summary and Review state
+
+DECONTAMINATION.value=Returned Product Processing
+DECONTAMINATION.shortDescription=Returned Product Processing state
+
+PRODUCT EVALUATION.value=Product Evaluation
+PRODUCT EVALUATION.shortDescription=Product Evaluation state
+
+REQUEST.value=Request
+REQUEST.shortDescription=Request state
+
+RESPONSE.value=Response
+RESPONSE.shortDescription=Response state
+
+REVIEW.value=Review
+REVIEW.shortDescription=Review state
+
+PRODUCT INVESTIGATION.value=Product Investigation
+PRODUCT INVESTIGATION.shortDescription=Product Investigation state
+
+DECISION.value=Decision
+DECISION.shortDescription=Decision state
+
+CREATION.value=Creation
+CREATION.shortDescription=Creation state
+
+APPROVAL.value=Approval
+APPROVAL.shortDescription=Approval state
+
+SUBMISSION.value=Submission
+SUBMISSION.shortDescription=Submission state
+
+SUBMITTING.value=Submitting
+SUBMITTING.shortDescription=Submitting state
+
+DELAYED.value=Delayed
+DELAYED.shortDescription=Delayed state
+
+FAILED.value=Failed
+FAILED.shortDescription=Failed state
+
+PENDING.value=Pending
+PENDING.shortDescription=Pending state
+
+WIP.value=Work In Progress
+WIP.shortDescription=Work In Progress
+
+VERIFICATION REQUIRED.value=Verification Required
+VERIFICATION REQUIRED.shortDescription=Verification Required state
+
+REWORKREQUIRED.value=Rework Required
+REWORKREQUIRED.shortDescription=Rework Required state
+
+ISSUEREQUIRED.value=Issue Required
+ISSUEREQUIRED.shortDescription=Issue Required state
+
+ISSUED.value=Issued
+ISSUED.shortDescription=Issued state
+
+IMPORTED.value=Imported
+IMPORTED.shortDescription=Imported state
+
+DRAFTDELIVERED.value=Draft Delivered
+DRAFTDELIVERED.shortDescription=Draft Delivered state
+
+DELIVERED.value=Delivered
+DELIVERED.shortDescription=Delivered state
+
+LOCKED.value=Locked
+LOCKED.shortDescription=Locked state
+
+UNLOCKED.value=Unlocked
+UNLOCKED.shortDescription=Unlocked state
+
+DRAFT.value=Draft
+DRAFT.shortDescription=Draft state
+
+FINAL.value=Final
+FINAL.shortDescription=Final state
+
+INPLANNING.value=In Planning
+INPLANNING.shortDescription=In Planning state
+
+RELEASEDFORPRODUCTION.value=Released For Production
+RELEASEDFORPRODUCTION.shortDescription=Released For Production state
+
+POTENTIAL.value=Potential
+POTENTIAL.shortDescription=Potential state
+
+READY FOR PACKAGING.value=Ready for Packaging
+READY FOR PACKAGING.shortDescription=Ready for Packaging state
+
+RECEIVED.value=Received
+RECEIVED.shortDescription=Received state
+
+REQUIRED.value=Required
+REQUIRED.shortDescription=Required state
+
+EXPIRED.value=Expired
+EXPIRED.shortDescription=Expired state
+
+ARCHIVED.value=Archived
+ARCHIVED.shortDescription=Archived state
+
+EFFECTIVE.value=Effective
+EFFECTIVE.shortDescription=Effective state
+
+LEGAL HOLD.value=Legal Hold
+LEGAL HOLD.shortDescription=Legal Hold state
+
+IN TRAINING.value=In Training
+IN TRAINING.shortDescription=In Training state
+
+IN REVIEW.value=In Review
+IN REVIEW.shortDescription=In Review state
+
+RECORD.value=Record
+RECORD.shortDescription=Record state
+
+SUBMITTED.value=Submitted
+SUBMITTED.shortDescription=Submitted state
+
+COMPILE.value=Compile
+COMPILE.shortDescription=Compile state
+
+

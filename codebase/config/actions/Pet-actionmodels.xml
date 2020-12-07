@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE actionmodels SYSTEM 'actionmodels.dtd'>
+<actionmodels>
+    <model name="petDetails">
+        <action name="primaryAttributes" type="object"/>
+        <action name="attachments" type="object"/>
+</model>
+<model name="pets list">
+    <action name="create" type="pet" shortcut="true"/>
+    <action name="delete" type="object" shortcut="true"/>
+</model>
+<model name="pet actions" menufor="com.acme.Pet">
+    <action name="editPet" type="pet"/>
+</model>
+</actionmodels>

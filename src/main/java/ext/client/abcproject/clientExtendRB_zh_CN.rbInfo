@@ -1,0 +1,17 @@
+ResourceInfo.class=wt.tools.resource.StringResourceInfo
+ResourceInfo.customizable=true
+ResourceInfo.deprecated=false
+ResourceInfo.UUID=4f63d6f1-b2db-4bdf-84d1-cc54675dd1b9
+
+# Entry Format (values equal to default value are not included)
+# <key>.value=
+# <key>.comment=
+# <key>.argComment<n>=
+# <key>.constant=
+# <key>.customizable=
+# <key>.deprecated=
+
+# Entry Contents
+
+1.value=你确认将该对象提交审阅流程吗？
+1.constant=CONFORM_SUBMIT_REVIEW

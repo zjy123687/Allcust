@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE listofactions SYSTEM 'actions.dtd'>
+<listofactions>
+    <objecttype name="pet" class="com.acme.Pet" resourceBundle="com.acme.jca.acmeActionResource">
+        <action name="petDefineItemAttributesWizStep" afterVK="setAttributesWizStep" preloadWizardPage="true" required="true">
+            <command url="netmarkets/jsp/acme/pet/defineItemAttributesWizStep.jsp" windowType="wizard_step"/>
+        </action>
+        <action name="create">
+            <command class="com.ptc.core.components.forms.CreateObjectFormProcessor" url="netmarkets/jsp/acme/pet/create.jsp" windowType="popup"/>
+        </action>
+        <action name="editPet">
+            <command class="com.ptc.core.components.forms.DefaultEditFormProcessor" url="netmarkets/jsp/acme/pet/editPet.jsp" windowType="popup"/>
+        </action>
+    </objecttype>
+</listofactions>
